@@ -33,7 +33,7 @@ Community Recovery: Empowers local communities to recover lost items by connecti
 
 Event Management: Provides a platform for large events, such as festivals or conferences, where attendees can report lost items and help each other recover belongings.
 
-Disaster Response: Serves as a valuable tool in disaster-stricken area, allowing individuals to report lost items when traditional communication methods are compromised.
+Disaster Response: Serves as a valuable tool in disaster-stricken areas, allowing individuals to report lost items when traditional communication methods are compromised.
 
 ##License:
 
